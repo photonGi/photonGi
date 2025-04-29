@@ -5,7 +5,7 @@
 
 <img src="anim.png" height="300" align="right">
 
-- 🔭 I’m currently working on [Learning Management System](https://github.com/photonGi/lms-frontend)
+- 🔭 I’m currently working on [AI Doctor](https://github.com/photonGi/AI-Doctor)
 
 - 🌱 I’m currently learning **Nodejs, Expressjs, Reactjs, MongoDB**
 
