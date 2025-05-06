@@ -5,7 +5,7 @@
 
 <img src="anim.png" height="300" align="right">
 
-- 🔭 I’m currently working on [AI Doctor](https://github.com/photonGi/AI-Doctor)
+- 🔭 I’m currently working on [Interviewer-AI](https://github.com/photonGi/Interviewer-AI)
 
 - 🌱 I’m currently learning **Nodejs, Expressjs, Reactjs, MongoDB**
 
