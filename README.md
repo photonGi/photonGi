@@ -5,7 +5,7 @@
 
 <img src="anim.png" height="300" align="right">
 
-- 🔭 I’m currently working on [URL Shortner](https://github.com/photonGi/url-shortner-mern)
+- 🔭 I’m currently working on [URL Shortner](https://github.com/photonGi/investment)
 
 - 🌱 I’m currently learning **Nodejs, Expressjs, Reactjs, MongoDB**
 
