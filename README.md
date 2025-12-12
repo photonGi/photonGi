@@ -5,7 +5,7 @@
 
 <img src="anim.png" height="300" align="right">
 
-- 🔭 I’m currently working on [Blue chip trail investments](https://github.com/photonGi/investment)
+- 🔭 I’m currently working on [Virtual SundarSTEM ILM](https://virtual.sundarstem.edu.pk/)
 
 - 🌱 I’m currently learning **Nodejs, Expressjs, Reactjs, MongoDB**
 
