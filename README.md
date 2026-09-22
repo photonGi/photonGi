@@ -1,36 +1,110 @@
-# Hi 👋, I'm Junaid Sadiq:
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0c4a6e,0284c7,38bdf8,bae6fd&height=200&section=header&text=Junaid%20Sadiq&fontSize=70&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer&descSize=22&animation=twinkling&v=1" width="100%" />
+</div>
 
-<h3 align="center">This is the place where I learn, break and implement stuff.</h3>
-<br>
+## About Me
 
-<img src="anim.png" height="300" align="right">
+I am an **AI Engineer** and **full-stack developer** focused on shipping production systems where models stay grounded in real data — agentic RAG over documentation, citation-backed answers, and geospatial change detection from public satellite imagery.
 
-- 🔭 I’m currently working on [Virtual SundarSTEM ILM](https://virtual.sundarstem.edu.pk/)
+My recent work lives at the intersection of **LLMs**, **retrieval**, and **TypeScript backends**: indexing docs with hybrid search, orchestrating long-running jobs, and pairing pixel-derived metrics with fact-checked narratives. I care about demos you can click, not slide decks.
 
-- 🌱 I’m currently learning **Nodejs, Expressjs, Reactjs, MongoDB**
+I am open to connecting with engineers and teams building the next generation of intelligent applications. Reach me on [LinkedIn](https://linkedin.com/in/junaidfd/), by [email](mailto:junaidci100@gmail.com), or via my [portfolio](https://junaidsadiq.framer.website/).
 
-- 👯 I’m interested in **MERN Stack**
+---
 
-- 🤝 I’m looking for help with **Amazon Web Services**
+## Featured Quests & Projects
 
-- 👨‍💻 My recent projects are available at [Portfolio Link](https://junaidsadiq.framer.website/)
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/photonGi/citeline">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=photonGi&repo=citeline&theme=transparent&title_color=0284c7&icon_color=38bdf8&text_color=64748b&border_color=00000000&border_radius=0&v=1" width="100%" alt="Citeline" />
+      </a>
+      <ul>
+        <li><b>Event:</b> Portfolio project</li>
+        <li><b>Role:</b> Full-stack AI developer</li>
+        <li><b>Live:</b> <a href="https://citeline-doc.vercel.app/">citeline-doc.vercel.app</a></li>
+        <li><b>Tech:</b>
+          <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" align="absmiddle" />
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" align="absmiddle" />
+          <img src="https://img.shields.io/badge/Postgres_pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" align="absmiddle" />
+          <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" align="absmiddle" />
+          <img src="https://img.shields.io/badge/Inngest-000000?style=flat-square&logo=inngest&logoColor=white" align="absmiddle" />
+          <img src="https://img.shields.io/badge/Upstash-00E9A3?style=flat-square&logo=upstash&logoColor=white" align="absmiddle" />
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/photonGi/EarthDiff">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=photonGi&repo=EarthDiff&theme=transparent&title_color=0284c7&icon_color=38bdf8&text_color=64748b&border_color=00000000&border_radius=0&v=1" width="100%" alt="EarthDiff" />
+      </a>
+      <ul>
+        <li><b>Event:</b> Portfolio project</li>
+        <li><b>Role:</b> AI + geospatial engineer</li>
+        <li><b>Live:</b> <a href="https://earth-diff.vercel.app/">earth-diff.vercel.app</a></li>
+        <li><b>Tech:</b>
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" align="absmiddle" />
+          <img src="https://img.shields.io/badge/Sentinel--2-003399?style=flat-square" align="absmiddle" />
+          <img src="https://img.shields.io/badge/STAC-0284c7?style=flat-square" align="absmiddle" />
+          <img src="https://img.shields.io/badge/GeoTIFF-059669?style=flat-square" align="absmiddle" />
+          <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" align="absmiddle" />
+          <img src="https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black" align="absmiddle" />
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/photonGi/Hire_Local">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=photonGi&repo=Hire_Local&theme=transparent&title_color=0284c7&icon_color=38bdf8&text_color=64748b&border_color=00000000&border_radius=0&v=1" width="100%" alt="Hire_Local" />
+      </a>
+      <ul>
+        <li><b>Event:</b> Personal project (ServiceGPT)</li>
+        <li><b>Role:</b> Backend / AI developer</li>
+        <li><b>Tech:</b>
+          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" align="absmiddle" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" align="absmiddle" />
+          <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" align="absmiddle" />
+          <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" align="absmiddle" />
+          <img src="https://img.shields.io/badge/uv-DE5FE9?style=flat-square" align="absmiddle" />
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/photonGi/designer-portfolio">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=photonGi&repo=designer-portfolio&theme=transparent&title_color=0284c7&icon_color=38bdf8&text_color=64748b&border_color=00000000&border_radius=0&v=1" width="100%" alt="designer-portfolio" />
+      </a>
+      <ul>
+        <li><b>Event:</b> Portfolio site</li>
+        <li><b>Role:</b> Frontend engineer</li>
+        <li><b>Tech:</b>
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" align="absmiddle" />
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" align="absmiddle" />
+          <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" align="absmiddle" />
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-- 📫 How to reach me **junaidci100@gmail.com**
+---
 
-- 📄 Know about my experiences [Portfolio Link](https://junaidsadiq.framer.website/)
+## GitHub Analytics
 
-- ⚡ Fun fact **I can beat you in any sports**
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=photonGi&include_all_commits=true&show_icons=true&theme=transparent&hide_border=true&title_color=0284c7&icon_color=38bdf8&text_color=64748b&v=1" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=photonGi&layout=compact&theme=transparent&hide_border=true&title_color=0284c7&text_color=64748b" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats-v2-mauve.vercel.app/?user=photonGi&theme=transparent&hide_border=true&title_color=0284c7&icon_color=38bdf8&ring=0284c7&fire=38bdf8&currStreakLabel=0284c7" width="70%" alt="GitHub Streak" />
+  <br />
+</div>
 
+## Tech Stack
 
-## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/junaidfd/) 
+| Domain | Technologies |
+| :--- | :--- |
+| **Agentic AI & RAG** | <img src="https://img.shields.io/badge/Agentic_RAG-0284c7?style=for-the-badge" /> <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Hybrid_Search-0ea5e9?style=for-the-badge" /> <img src="https://img.shields.io/badge/Citations-38bdf8?style=for-the-badge" /> |
+| **Full-stack** | <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /> |
+| **Backend & data** | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> |
+| **Tools & infrastructure** | <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Inngest-000000?style=for-the-badge&logo=inngest&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> |
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=photonGi&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=photonGi&theme=default_repocard&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=photonGi&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
+----
