@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/photonGi/photonGi/main/assets/header.svg" width="100%" alt="Junaid Sadiq — AI Engineer | Full-Stack Developer" />
+  <img src="https://raw.githubusercontent.com/photonGi/photonGi/main/assets/header.png" width="100%" alt="Junaid Sadiq — AI Engineer | Full-Stack Developer" />
 </div>
 
 ## About Me
@@ -18,7 +18,7 @@ I am open to connecting with engineers and teams building the next generation of
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/photonGi/citeline">
-        <img src="https://raw.githubusercontent.com/photonGi/photonGi/main/assets/pins/citeline.svg" width="100%" alt="Citeline" />
+        <img src="https://raw.githubusercontent.com/photonGi/photonGi/main/assets/pins/citeline.png" width="100%" alt="Citeline" />
       </a>
       <ul>
         <li><b>Event:</b> Portfolio project</li>
@@ -36,7 +36,7 @@ I am open to connecting with engineers and teams building the next generation of
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/photonGi/EarthDiff">
-        <img src="https://raw.githubusercontent.com/photonGi/photonGi/main/assets/pins/EarthDiff.svg" width="100%" alt="EarthDiff" />
+        <img src="https://raw.githubusercontent.com/photonGi/photonGi/main/assets/pins/EarthDiff.png" width="100%" alt="EarthDiff" />
       </a>
       <ul>
         <li><b>Event:</b> Portfolio project</li>
@@ -56,7 +56,7 @@ I am open to connecting with engineers and teams building the next generation of
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/photonGi/Hire_Local">
-        <img src="https://raw.githubusercontent.com/photonGi/photonGi/main/assets/pins/Hire_Local.svg" width="100%" alt="Hire_Local" />
+        <img src="https://raw.githubusercontent.com/photonGi/photonGi/main/assets/pins/Hire_Local.png" width="100%" alt="Hire_Local" />
       </a>
       <ul>
         <li><b>Event:</b> Personal project (ServiceGPT)</li>
@@ -72,7 +72,7 @@ I am open to connecting with engineers and teams building the next generation of
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/photonGi/designer-portfolio">
-        <img src="https://raw.githubusercontent.com/photonGi/photonGi/main/assets/pins/designer-portfolio.svg" width="100%" alt="designer-portfolio" />
+        <img src="https://raw.githubusercontent.com/photonGi/photonGi/main/assets/pins/designer-portfolio.png" width="100%" alt="designer-portfolio" />
       </a>
       <ul>
         <li><b>Event:</b> Portfolio site</li>

@@ -94,3 +94,5 @@ for (const meta of repos) {
   await writeFile(file, svg, "utf8");
   console.log("Wrote", file);
 }
+
+console.log("Run: node scripts/render-profile-images.mjs  (PNG for GitHub README)");
