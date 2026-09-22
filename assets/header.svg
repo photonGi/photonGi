@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" role="img" aria-label="Junaid Sadiq  AI Engineer | Full-Stack Developer">
+  <defs>
+    <linearGradient id="skyCyan" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0369a1"/>
+      <stop offset="35%" stop-color="#0284c7"/>
+      <stop offset="65%" stop-color="#0ea5e9"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+    <linearGradient id="skyCyanSoft" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0ea5e9" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#67e8f9" stop-opacity="0.15"/>
+    </linearGradient>
+  </defs>
+  <!-- Waving header shape -->
+  <path
+    fill="url(#skyCyan)"
+    d="M0,0 H1200 V145 C1050,195 900,175 750,165 C600,155 450,195 300,170 C150,145 75,155 0,175 Z"
+  />
+  <path
+    fill="url(#skyCyanSoft)"
+    d="M0,0 H1200 V145 C1050,195 900,175 750,165 C600,155 450,195 300,170 C150,145 75,155 0,175 Z"
+  />
+  <text
+    x="600"
+    y="78"
+    text-anchor="middle"
+    fill="#ffffff"
+    font-family="Segoe UI, system-ui, -apple-system, sans-serif"
+    font-size="52"
+    font-weight="700"
+  >Junaid Sadiq</text>
+  <text
+    x="600"
+    y="118"
+    text-anchor="middle"
+    fill="#f0f9ff"
+    font-family="Segoe UI, system-ui, -apple-system, sans-serif"
+    font-size="22"
+    font-weight="400"
+  >AI Engineer | Full-Stack Developer</text>
+</svg>
