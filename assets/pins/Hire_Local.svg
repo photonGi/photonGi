@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="415" height="132" viewBox="0 0 415 132" role="img" aria-label="Hire_Local">
-  <rect width="415" height="132" rx="4" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
-  <text x="16" y="26" fill="#0284c7" font-family="Segoe UI, system-ui, sans-serif" font-size="14" font-weight="600">Hire_Local</text>
-  <text x="16" y="48" fill="#8b949e" font-family="Segoe UI, system-ui, sans-serif" font-size="12">ServiceGPT backend — find local service providers</text>
-  <text x="16" y="64" fill="#8b949e" font-family="Segoe UI, system-ui, sans-serif" font-size="12">from structured fields or natural-language queries</text>
-  <text x="16" y="114" fill="#8b949e" font-family="Segoe UI, system-ui, sans-serif" font-size="12">★ 0</text>
-  <circle cx="72" cy="110" r="4" fill="#3178c6"/>
-  <text x="82" y="114" fill="#8b949e" font-family="Segoe UI, system-ui, sans-serif" font-size="12">TypeScript</text>
+  <rect width="415" height="132" rx="6" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+  <rect width="415" height="3" rx="6" fill="#38bdf8" opacity="0.85"/>
+  <text x="16" y="28" fill="#0284c7" font-family="Segoe UI, system-ui, sans-serif" font-size="14" font-weight="600">Hire_Local</text>
+  <text x="16" y="50" fill="#64748b" font-family="Segoe UI, system-ui, sans-serif" font-size="12">ServiceGPT backend — find local service providers</text>
+  <text x="16" y="66" fill="#64748b" font-family="Segoe UI, system-ui, sans-serif" font-size="12">from structured fields or natural-language queries</text>
+  <text x="16" y="116" fill="#94a3b8" font-family="Segoe UI, system-ui, sans-serif" font-size="11">★ 0</text>
+  <circle cx="72" cy="112" r="4" fill="#3178c6"/>
+  <text x="82" y="116" fill="#94a3b8" font-family="Segoe UI, system-ui, sans-serif" font-size="11">TypeScript</text>
 </svg>

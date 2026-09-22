@@ -67,17 +67,18 @@ function buildSvg(repo, meta) {
 
   return `<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="415" height="${height}" viewBox="0 0 415 ${height}" role="img" aria-label="${title}">
-  <rect width="415" height="${height}" rx="4" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
-  <text x="16" y="26" fill="#0284c7" font-family="Segoe UI, system-ui, sans-serif" font-size="14" font-weight="600">${title}</text>
+  <rect width="415" height="${height}" rx="6" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+  <rect width="415" height="3" rx="6" fill="#38bdf8" opacity="0.85"/>
+  <text x="16" y="28" fill="#0284c7" font-family="Segoe UI, system-ui, sans-serif" font-size="14" font-weight="600">${title}</text>
   ${descLines
     .map(
       (line, i) =>
-        `<text x="16" y="${descY[i]}" fill="#8b949e" font-family="Segoe UI, system-ui, sans-serif" font-size="12">${line}</text>`,
+        `<text x="16" y="${descY[i] + 2}" fill="#64748b" font-family="Segoe UI, system-ui, sans-serif" font-size="12">${line}</text>`,
     )
     .join("\n  ")}
-  <text x="16" y="${height - 18}" fill="#8b949e" font-family="Segoe UI, system-ui, sans-serif" font-size="12">★ ${stars}</text>
-  <circle cx="72" cy="${height - 22}" r="4" fill="#3178c6"/>
-  <text x="82" y="${height - 18}" fill="#8b949e" font-family="Segoe UI, system-ui, sans-serif" font-size="12">${lang}</text>
+  <text x="16" y="${height - 16}" fill="#94a3b8" font-family="Segoe UI, system-ui, sans-serif" font-size="11">★ ${stars}</text>
+  <circle cx="72" cy="${height - 20}" r="4" fill="#3178c6"/>
+  <text x="82" y="${height - 16}" fill="#94a3b8" font-family="Segoe UI, system-ui, sans-serif" font-size="11">${lang}</text>
 </svg>`;
 }
 
