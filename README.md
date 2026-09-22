@@ -55,6 +55,23 @@ I am open to connecting with engineers and teams building the next generation of
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/photonGi/multi-tenant-rag-chatbot">
+        <img src="https://raw.githubusercontent.com/photonGi/photonGi/main/assets/pins/multi-tenant-rag-chatbot.png" width="100%" alt="multi-tenant-rag-chatbot" />
+      </a>
+      <ul>
+        <li><b>Event:</b> Portfolio project</li>
+        <li><b>Role:</b> Full-stack AI developer</li>
+        <li><b>Tech:</b>
+          <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" align="absmiddle" />
+          <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" align="absmiddle" />
+          <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" align="absmiddle" />
+          <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" align="absmiddle" />
+          <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" align="absmiddle" />
+          <img src="https://img.shields.io/badge/shadcn_ui-000000?style=flat-square" align="absmiddle" />
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
       <a href="https://github.com/photonGi/Hire_Local">
         <img src="https://raw.githubusercontent.com/photonGi/photonGi/main/assets/pins/Hire_Local.png" width="100%" alt="Hire_Local" />
       </a>

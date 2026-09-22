@@ -15,6 +15,11 @@ const repos = [
       "Satellite change detection on Sentinel-2 — before/after imagery, hectares by change type, and Gemini summaries checked against pixel-derived stats.",
   },
   {
+    slug: "multi-tenant-rag-chatbot",
+    description:
+      "Multi-tenant RAG chatbot — Next.js admin and chat UI, Supabase auth with RLS, pgvector storage, and n8n webhooks for ingest and answers.",
+  },
+  {
     slug: "Hire_Local",
     description:
       "ServiceGPT backend — find local service providers from structured fields or natural-language queries using AI-powered web search.",
