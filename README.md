@@ -87,6 +87,8 @@ I am open to connecting with engineers and teams building the next generation of
         </li>
       </ul>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/photonGi/designer-portfolio">
         <img src="https://raw.githubusercontent.com/photonGi/photonGi/main/assets/pins/designer-portfolio.png" width="100%" alt="designer-portfolio" />
@@ -101,6 +103,7 @@ I am open to connecting with engineers and teams building the next generation of
         </li>
       </ul>
     </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
