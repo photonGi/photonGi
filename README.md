@@ -20,6 +20,7 @@ I am open to connecting with engineers and teams building the next generation of
       <a href="https://github.com/photonGi/citeline">
         <img src="https://github-stats-extended.vercel.app/api/pin/?username=photonGi&repo=citeline&theme=transparent&title_color=0284c7&icon_color=38bdf8&text_color=64748b&border_color=00000000&border_radius=0&v=1" width="100%" alt="Citeline" />
       </a>
+      <p><b>About:</b> Agentic RAG for documentation — crawl a docs site, answer with heading-level citations, or refuse when the source does not cover the question.</p>
       <ul>
         <li><b>Event:</b> Portfolio project</li>
         <li><b>Role:</b> Full-stack AI developer</li>
@@ -38,6 +39,7 @@ I am open to connecting with engineers and teams building the next generation of
       <a href="https://github.com/photonGi/EarthDiff">
         <img src="https://github-stats-extended.vercel.app/api/pin/?username=photonGi&repo=EarthDiff&theme=transparent&title_color=0284c7&icon_color=38bdf8&text_color=64748b&border_color=00000000&border_radius=0&v=1" width="100%" alt="EarthDiff" />
       </a>
+      <p><b>About:</b> Satellite change detection on Sentinel-2 — before/after imagery, hectares by change type, and Gemini summaries checked against pixel-derived stats.</p>
       <ul>
         <li><b>Event:</b> Portfolio project</li>
         <li><b>Role:</b> AI + geospatial engineer</li>
@@ -58,6 +60,7 @@ I am open to connecting with engineers and teams building the next generation of
       <a href="https://github.com/photonGi/Hire_Local">
         <img src="https://github-stats-extended.vercel.app/api/pin/?username=photonGi&repo=Hire_Local&theme=transparent&title_color=0284c7&icon_color=38bdf8&text_color=64748b&border_color=00000000&border_radius=0&v=1" width="100%" alt="Hire_Local" />
       </a>
+      <p><b>About:</b> ServiceGPT backend — find local service providers from structured fields or natural-language queries using AI-powered web search.</p>
       <ul>
         <li><b>Event:</b> Personal project (ServiceGPT)</li>
         <li><b>Role:</b> Backend / AI developer</li>
@@ -74,6 +77,7 @@ I am open to connecting with engineers and teams building the next generation of
       <a href="https://github.com/photonGi/designer-portfolio">
         <img src="https://github-stats-extended.vercel.app/api/pin/?username=photonGi&repo=designer-portfolio&theme=transparent&title_color=0284c7&icon_color=38bdf8&text_color=64748b&border_color=00000000&border_radius=0&v=1" width="100%" alt="designer-portfolio" />
       </a>
+      <p><b>About:</b> Designer portfolio built with Next.js — case studies, responsive layout, and polished presentation for creative work.</p>
       <ul>
         <li><b>Event:</b> Portfolio site</li>
         <li><b>Role:</b> Frontend engineer</li>
