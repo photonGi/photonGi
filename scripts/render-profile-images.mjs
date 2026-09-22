@@ -24,9 +24,7 @@ const pinDir = resolve(root, "assets/pins");
 const pinFiles = (await readdir(pinDir)).filter((name) => name.endsWith(".svg"));
 for (const name of pinFiles) {
   const base = name.replace(/\.svg$/, "");
-  await svgToPng(
-    resolve(pinDir, name),
-    resolve(pinDir, `${base}.png`),
-    830,
-  );
+  const pngName =
+    base === "multi-tenant-rag-chatbot" ? `${base}-card.png` : `${base}.png`;
+  await svgToPng(resolve(pinDir, name), resolve(pinDir, pngName), 830);
 }

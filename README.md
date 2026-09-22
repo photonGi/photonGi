@@ -56,7 +56,7 @@ I am open to connecting with engineers and teams building the next generation of
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/photonGi/multi-tenant-rag-chatbot">
-        <img src="https://raw.githubusercontent.com/photonGi/photonGi/main/assets/pins/multi-tenant-rag-chatbot.png" width="100%" alt="multi-tenant-rag-chatbot" />
+        <img src="https://raw.githubusercontent.com/photonGi/photonGi/main/assets/pins/multi-tenant-rag-chatbot-card.png" width="100%" alt="multi-tenant-rag-chatbot" />
       </a>
       <ul>
         <li><b>Event:</b> Portfolio project</li>
